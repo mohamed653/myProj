@@ -6,3 +6,4 @@
 git commit -m "message"
 ```
 
+![this my image](/image.png)
