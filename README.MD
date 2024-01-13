@@ -17,4 +17,9 @@ to remove the branch remotely
 ```
 git push origin --delete div
 ```
+## to list tags locally
+
+```
+git tag -a v1.0.0 -m "Initial release version"
+```
 ![this my image](/image.png)
